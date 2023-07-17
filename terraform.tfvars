@@ -1,7 +1,7 @@
 resource_group_name     = "TaskBoardRG"
 resource_group_location = "North Europe"
 app_service_plan_name   = "task-board-plan"
-app_service_name        = "task-board"
+app_service_name        = "task-board-terraform"
 sql_server_name         = "task-board-sql"
 sql_database_name       = "TaskBoardDB"
 sql_admin_login         = "user01"
